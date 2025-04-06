@@ -162,7 +162,7 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Contact
 For inquiries or collaboration:
-- **Author**: [Ayyoub JAICHI]
-- **Email**: [ayyoub.jaichi@gmail.com]
+- **Author**: Ayyoub JAICHI
+- **Email**: ayyoub.jaichi@gmail.com
 - **GitHub**: [ayyoubjai](https://github.com/ayyoubjai)
 
