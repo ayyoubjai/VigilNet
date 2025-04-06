@@ -5,8 +5,8 @@ import torchvision.models.detection as detection
 import torchvision.transforms as transforms
 from torch.utils.data import Dataset, DataLoader
 import matplotlib.pyplot as plt
-from model import VideoAnomalyDetector, create_yolo_masks
-from dataset import UCFVideoDataset
+from model.model import VideoAnomalyDetector, create_yolo_masks
+from dataset.dataset import UCFVideoDataset
 from tqdm import tqdm  # Import tqdm for progress bars
 import numpy as np
 
